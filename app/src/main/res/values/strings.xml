@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Application</string>
+    <string name="bulls_rent">BULLS RENT</string>
+    <string name="welcome_to_dashboard">WELCOME TO DASHBOARD</string>
+    <string name="hello_there_welcome_back">Hello There, Welcome Back</string>
+    <string name="sign_in_to_continue">Sign in to Contiue</string>
+    <string name="welcome_to_registration_page">Welcome to Registration Page</string>
+    <string name="sign_up_to_start_your_journey">Sign up to start your journey</string>
+</resources>
